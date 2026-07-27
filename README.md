@@ -10,5 +10,4 @@ _Phobos is open-source software. You are free to use, modify, and create derivat
 **Initial release** _(v1.0.0 - 27 July 2026)_
 - Features a simple main menu and a slightly scuffed unit converter.
 - Definitely holds room for many improvements..
-- New tools may get added in the future and replace the (WIP) slots.
-![phobos logo](https://imgur.com/kCwg8df "logo")
+- New tools may get added in the future and replace the `(WIP)` slots.
