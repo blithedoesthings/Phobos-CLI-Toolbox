@@ -1,10 +1,8 @@
 <img width="298" height="298" alt="logo" src="https://github.com/user-attachments/assets/493e97e0-ca82-4539-ae4c-88fbb78a3997" />
 
 # Phobos CLI Toolbox
-A lightweight command-line toolbox built in Lua.
+**A lightweight command-line toolbox built in Lua.**
 
-
-**License & usage**
 
 _Phobos is open-source software. You are free to use, modify, and create derivative works based on this project, as long as proper credit is given to the original author._
 
