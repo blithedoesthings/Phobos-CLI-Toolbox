@@ -1,3 +1,5 @@
+<img width="298" height="298" alt="logo" src="https://github.com/user-attachments/assets/493e97e0-ca82-4539-ae4c-88fbb78a3997" />
+
 # Phobos CLI Toolbox
 A lightweight command-line toolbox built in Lua.
 
