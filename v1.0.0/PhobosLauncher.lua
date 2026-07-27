@@ -69,13 +69,16 @@ while true do
         print("GitHub repo: https://github.com/blithedoesthings/Phobos-CLI-Toolbox")
         io.read()
     elseif (choice == "R") or (choice == "r") then
-        print("Placeholder")
+        print("If you have any questions, suggestions, or want to report an issue/bug, you can create an Issue at the GitHub repo:")
+        print("https://github.com/blithedoesthings/Phobos-CLI-Toolbox/issues/new")
+        print("Alternatively, you can reach out to the creator on Discord: blithedoesthings")
+        print("/!\\ For the latter option, note that 24/7 activity is definitely not guaranteed.")
         io.read()
     elseif (choice == "C") or (choice == "c") then
         clearing()
         print("")
         print("==========================================")
-        print("                Changelog")
+        print("                Changelog                 ")
         print("==========================================")
         print("v1.0.0 - 27 July 2026")
         print("Initial release")
