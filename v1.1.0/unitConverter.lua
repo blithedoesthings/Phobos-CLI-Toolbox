@@ -141,7 +141,7 @@ function convertTemperature() -- specialized case
                         print("Result: " .. mathRound(((temperatureSelected - 32) * 5/9), 4) .. "°C")
                     elseif ((selectedFrom == "Celsius") or (selectedFrom == "C")) and ((selectedTo == "Fahrenheit") or (selectedTo == "F")) then
                         print("Result: " .. mathRound(((temperatureSelected * 9/5) + 32), 4) .. "°F")
-                    elseif ((selectedFrom == "Fahrenheit") or (selectedFrom == "C")) and ((selectedTo == "Kelvin") or (selectedTo == "K")) then
+                    elseif ((selectedFrom == "Fahrenheit") or (selectedFrom == "F")) and ((selectedTo == "Kelvin") or (selectedTo == "K")) then
                         print("Result: " .. mathRound(((temperatureSelected - 32) * 5/9 + 273.15), 4) .. " K")
                     elseif ((selectedFrom == "Kelvin") or (selectedFrom == "K")) and ((selectedTo == "Fahrenheit") or (selectedTo == "F")) then
                         print("Result: " .. mathRound(((temperatureSelected - 273.15) * 1.8 + 32), 4) .. "°F")
