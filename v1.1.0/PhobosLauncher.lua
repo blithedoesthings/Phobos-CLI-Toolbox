@@ -46,7 +46,7 @@ while true do
         print("==========================================")
         print("")
         print("Phobos is an open-source command line toolbox built in Lua.")
-        print("Named after one of Mars' two moons, it combines a") 
+        print("Named after one of Mars's two moons, it combines a") 
         print("collection of practical utilities stored inside a")
         print("single lightweight application.")
         print("")
@@ -74,7 +74,6 @@ while true do
         io.read()
     elseif (choice == "C") or (choice == "c") then
         clearing()
-        print("")
         print("==========================================")
         print("                Changelog                 ")
         print("==========================================")
