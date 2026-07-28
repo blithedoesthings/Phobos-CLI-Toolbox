@@ -8,6 +8,11 @@ _Phobos is open-source software. You are free to use, modify, and create derivat
 
 ## Changelog
 
+**Update #1** _(v1.1.0 - 28 July 2026)_
+- Added a calculator. It supports the primary four functions, exponentation, square roots, trigonometric functions, and modulo.
+    - This calculator may get expanded with more features.
+- Added imperial and US units to the "Volume" category of the unit converter.
+
 **Initial release** _(v1.0.0 - 27 July 2026)_
 - Features a simple main menu and a slightly scuffed unit converter.
 - Definitely holds room for many improvements..
